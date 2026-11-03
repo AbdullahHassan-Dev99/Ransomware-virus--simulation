@@ -1,0 +1,4 @@
+{
+  "domain": "corp.internal",
+  "backup_server": "backup.vlan"
+}
